@@ -1,3 +1,7 @@
+// Assign a function that encloses a VARIABLE of TYPE int named x and increments it.
+// Wanted to find out why x keeps incrementing, and when and where it is initialised
+// Raphael Spannocchi, Learning Go, May 2019
+
 package main
 
 import (
